@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi! I am @jirimotyl, neuropsychologist and researcher.
+
+📫 How to reach me: jiri.motyl@vfn.cz 
 
 <!--
 **jirimotyl/jirimotyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
