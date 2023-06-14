@@ -1,4 +1,4 @@
-Hi! I am @jirimotyl, neuropsychologist and researcher.
+Hi! I am @jirimotyl, a neuropsychologist and a researcher.
 
 📫 How to reach me: jiri.motyl@vfn.cz 
 
