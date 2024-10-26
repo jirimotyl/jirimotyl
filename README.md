@@ -1,7 +1,8 @@
 Hi! I am @jirimotyl, a neuropsychologist and a researcher.
 
 - 📫 How to reach me: jiri.motyl@vfn.cz
-- 🔭 My current project: <a href = "https://github.com/jirimotyl/edss">EDSScalculator: EDSS Calculator for R</a>
+- 🔭 My current projects:
+- -<a href = "https://github.com/jirimotyl/edss">EDSScalculator: EDSS Calculator for R</a>
 
 
 
