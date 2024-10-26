@@ -1,6 +1,9 @@
 Hi! I am @jirimotyl, a neuropsychologist and a researcher.
 
-📫 How to reach me: jiri.motyl@vfn.cz 
+- 📫 How to reach me: jiri.motyl@vfn.cz
+- 🔭 My current project: <a href = "https://github.com/jirimotyl/edss">EDSScalculator: EDSS Calculator for R</a>
+
+
 
 <!--
 **jirimotyl/jirimotyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
